@@ -1,0 +1,17 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    // Controls the font family.
+	"editor.fontFamily": "Inconsolata Medium",
+
+	// Controls the font size.
+	"editor.fontSize": 19,
+    
+    	"files.exclude": {
+		"**/.git": true,
+		"**/.DS_Store": true,
+        "node_modules/": true,
+        "**/._*": true,
+        "**/*.js": true,
+        "**/*.map": true
+	}
+}
